@@ -1,0 +1,18 @@
+body {
+    text-align: center; 
+    color: white;
+    background: linear-gradient(black, grey); 
+}
+
+footer {
+    text-align: left;
+    margin-top: 340px;
+}
+
+h1 {
+    margin-bottom: 100px;
+}
+
+p {
+    margin-bottom: 40px;
+}
